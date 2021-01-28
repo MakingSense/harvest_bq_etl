@@ -5,6 +5,7 @@ from pandas import json_normalize
 from datetime import datetime
 import gc
 import dateutil.parser
+import yaml
 
 
 # Database connection details
