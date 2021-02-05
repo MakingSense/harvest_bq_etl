@@ -15,7 +15,7 @@ full_table_id = "ms_harvest_custom."
 project_id = "ms-data-warehouse"
 q_check_contents = """SELECT max(last_system_update_date) as last_system_update_date FROM  """
 # Forecast App Access
-access_hv_token = "2366395.pt.o0uOxxspBcIf8hhHVmY9s_OPp1XSwSBzZMyiDJ20Krqv8l_zU0vCHpCgOr1hsMLielP8OfNvzbmthdMsR80gHA"
+access_hv_token = "************************************************************************"
 hv_id = "789482"
 url_api = "https://api.harvestapp.com/v2/"
 schemas = ['clients', 'contacts', 'expense_categories', 'expenses', 'invoice_item_categories',
